@@ -1,2 +1,2 @@
 # Landing_Page
-Landing page for a medical insurance
+Landing page for a tech company
